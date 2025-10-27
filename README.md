@@ -45,7 +45,7 @@ MyBookShelf is an iOS application built with SwiftUI that helps organized reader
 
 ## 📱 Screenshots
 
-| Library Tab | Progress Tab | Settings Tab | Book Search | Add/Edit Book |
+| Shelve Tab | Stats Tab | Settings Tab | Book Search | Add/Edit Book |
 |:---:|:---:|:---:|:---:|:---:|
 | <img width="200" alt="Main list with books, covers, and sort options" src="https://github.com/user-attachments/assets/161f0351-45bd-45b2-8431-74fd861be313" /> | <img width="200" alt="Pie/bar charts showing reading statistics" src="https://github.com/user-attachments/assets/2c84f7cd-d2c4-4c03-a171-92e442ba49ce" /> | <img width="200" alt="Sort preferences and notification settings" src="https://github.com/user-attachments/assets/ca9583bf-c49d-4e56-953b-f877276f908c" /> | <img width="200" alt="Google Books API results" src="https://github.com/user-attachments/assets/2a79385b-8337-45f1-aaff-bc2c31872833" /> | <img width="200" alt="Form with title, author, status fields" src="https://github.com/user-attachments/assets/cf661f51-64c5-4ef1-83b8-4f483db430f5" /> |
 
